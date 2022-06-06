@@ -1,0 +1,15 @@
+list1 - Search files in drive
+mirror1 - Start Mirror
+zipmirror1 - Mirror and upload as .zip
+unzipmirror1 - Extract files
+qbmirror1 - Mirror using qBittorrent
+qbzipmirror1 - Mirror and -> as .zip using qb
+qbunzipmirror1 - Extract files using qb
+clone1 - Copy file/folder/gdtot link to Drive
+count1 - Count file/folder of Drive link
+watch1 - YT supported link
+zipwatch1 - YT playlist link -> as .zip
+status1 - Get Mirror Status message
+stats1 - Bot Usage Stats
+ping1 - Ping the Bot
+help1 - All cmds with description
