@@ -1,0 +1,15 @@
+leech1 -  Torrent/Direct link
+zipleech1 -  Torrent/Direct link ->  .zip
+unzipleech1 -  Torrent/Direct link and extract
+qbleech1 -  Torrent/Magnet using qBittorrent
+qbzipleech1 -  Torrent/Magnet -> .zip using qb
+qbunzipleech1 -  Torrent and extract using qb
+leechwatch1 -  YT link upload to telegram
+leechzipwatch1 -  YT playlist link -> as .zip
+leechset1 -  Leech settings
+setthumb1 -  Set Thumbnail
+search1 -  Search torrent on web
+status1 -  Get Leech Status message
+stats1 -  Bot Usage Stats
+ping1 -  Ping the Bot
+help1 -  All cmds with description
